@@ -1,5 +1,7 @@
 .header-logo img{
-    font: 24px;
-    height: 24px;
+    display: flex;
+    justify-content: end;
+    height: 50px;
     width: auto;
+    
 }
