@@ -1,7 +1,26 @@
-.header-logo img{
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100 900;
+    font-style: normal;
+    src: url('fonts/Roboto/Roboto-VariableFont_wdth,wght.ttf') format('truetype');
+}
+
+.header{
     display: flex;
-    justify-content: end;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px;
+    padding-left: 100px;
+    background-color: #1F2937;
+    color: white;
+    font-family: "Roboto";
+}
+
+.header_logo{
+    display: flex;
+    justify-content: start;
     height: 50px;
     width: auto;
-    
+    font-weight: bold;    
+    font-family: "Roboto";
 }
