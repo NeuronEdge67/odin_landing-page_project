@@ -38,7 +38,19 @@
 }
 
 .text{
-    Font-size: 48px
-    Color: #F9FAF8
-    Weight: 900
+    Color: #F9FAF8;
+}
+
+.bottom_header p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.bottom_header button{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 18px;
+    border-width: 0px;
 }
