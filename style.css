@@ -79,3 +79,15 @@
     display: flex;
     color: red;
 }
+
+.random_info{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    font-family: "Roboto";
+}
+
+.random_info h2{
+    font-weight: 900;
+    align-items: center;
+}
